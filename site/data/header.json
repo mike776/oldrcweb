@@ -9,16 +9,12 @@
 			"href": ""
 		},
 		{
-			"title": "Engineering",
-			"href": ""
-		},
-		{
-			"title": "Software",
-			"href": ""
+			"title": "Our work",
+			"href": "work"
 		},
 		{
 			"title": "Contact",
-			"href": ""
+			"href": "#contact"
 		}
 	]
 }
