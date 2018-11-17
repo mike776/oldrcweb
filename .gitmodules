@@ -1,3 +1,0 @@
-[submodule "submodules/hugo-fresh"]
-	path = submodules/hugo-fresh
-	url = git@github.com:lucperkins/hugo-fresh.git
