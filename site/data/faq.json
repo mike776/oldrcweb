@@ -1,0 +1,14 @@
+{
+	"title": "FAQ",
+	"description": "",
+	"faq": [
+		{
+			"title": "Can you help me design and fabricate a product?",
+			"description": "Yes"
+		},
+		{
+			"title": "Can you build me some software?",
+			"description": "Oh yeah we can"
+		}
+	]
+}

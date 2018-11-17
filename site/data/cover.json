@@ -1,0 +1,11 @@
+{
+	"title" : "Imagine, Design, Engineer.",
+	"description" : "Rainbow Crow is solving real business problems for our clients through deep expertise, innovation, and strong execution. Allow us to provide the resources you need to succeed.",
+	"illustration" : "teacher.svg",
+	"alt_text" : "Or see why we worth it",
+	"alt_href" : "#features",
+	"button" : {
+		"text" : "Contact",
+		"href" : "#contact"
+	}
+}

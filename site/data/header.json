@@ -1,0 +1,24 @@
+{
+	"brand": "Rainbow Crow",
+	"logo": "logo.svg",
+	"wbenclogo": "wbenc.png",
+	"wbenchref": "https://www.wbenc.org/",
+	"links": [
+		{
+			"title": "Home",
+			"href": ""
+		},
+		{
+			"title": "Engineering",
+			"href": ""
+		},
+		{
+			"title": "Software",
+			"href": ""
+		},
+		{
+			"title": "Contact",
+			"href": ""
+		}
+	]
+}

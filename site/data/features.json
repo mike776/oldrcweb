@@ -1,0 +1,21 @@
+{
+	"title" : "Businesses",
+	"description" : "We're best at our services",
+	"content" : [
+		{
+			"icon" : "bell",
+			"title" : "Creative Design",
+			"description" : "Our proven creative website design services speak of your brand, thus establishing an instant connection with your customers."
+		},
+		{
+			"icon" : "code",
+			"title" : "Web & Mobile Development",
+			"description" : "We help you craft a functional and high-performing apps and websites through our effective mobile and web development services."
+		},
+		{
+			"icon" : "hammer",
+			"title" : "Design & Manufacturing",
+			"description" : "We have years of experience through the entire supply chain starting from the design work and down to the shipping. See for your self by browsing through our catalogue."
+		}
+	]
+}

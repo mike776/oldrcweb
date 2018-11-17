@@ -1,0 +1,11 @@
+{
+	"components": [
+		"header",
+		"cover",
+		"features",
+		"clients",
+		"faq",
+		"contact"
+	],
+	"googleAnalytics": "UA-129342170-1"
+}

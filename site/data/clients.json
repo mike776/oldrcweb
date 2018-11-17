@@ -1,0 +1,26 @@
+{
+	"title" : "Some of our awesome clients",
+	"description" : "We work with some of the biggest names in the industry",
+	"clients" : [
+		{
+			"title" : "Port Authority Trans-Hudson",
+			"image" : "path.png"
+		},
+		{
+			"title" : "Metropolitan Transport Authority",
+			"image" : "mta.png"
+		},
+		{
+			"title" : "Southeastern Pennsylvania Transportation Authority",
+			"image" : "septa.png"
+		},
+		{
+			"title" : "Tri-County Metropolitan Transportation District of Oregon",
+			"image" : "trimet.png"
+		},
+		{
+			"title" : "Siemens",
+			"image" : "siemens.png"
+		}
+	]
+}
