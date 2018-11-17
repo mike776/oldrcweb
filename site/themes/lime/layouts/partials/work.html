@@ -1,0 +1,20 @@
+<section id="py-5" class="bg-light py-5">
+  <div class="container text-center">
+    <h2 class="h2 mb-5">Work</h2>
+			<div class="row">
+				{{ range first 3 (where (where .Site.Pages "Section" "work") ".Title" "!=" "Works" ) }}      
+    			<div class="col-lg-4">
+    				<a class="workImage" data-description="{{ .Description }}" data-title="{{ .Title }}" data-url="{{.Site.BaseURL}}/images/work/{{ .Params.featuredimage }}" href="{{ .Permalink }}">
+              <img width="100%" class="my-3 shadow" src="{{.Site.BaseURL}}images/work/{{ .Params.featuredimage }}" alt="">
+            </a>
+
+            <h5 class="mt-2">{{ .Title }}</h5>
+    			</div>
+    		{{ end }}
+      </div>
+      
+      <a href="{{.Site.BaseURL}}/work" class="btn btn-secondary rounded mt-5">
+        More <i class="fa fa-arrow-right"></i>
+      </a>
+  </div>
+</section>

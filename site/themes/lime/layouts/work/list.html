@@ -1,0 +1,29 @@
+{{ $navtype := "hello" }}
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
+
+<section id="work" class="p-2">
+  <div class="container text-center">
+    <h1 class="h1 my-5">Work</h1>
+
+    <div class="row">
+      {{ range .Data.Pages }}
+        <div class="col-lg-4 col-md-6">
+          {{ if .Params.featuredimage }}
+            <a class="workImage" data-description="{{ .Description }}" data-title="{{ .Title }}" data-url="{{.Site.BaseURL}}images/work/{{.Params.featuredimage}}" href="{{ .Permalink }}">
+              <img width="100%" class="my-3" src="{{.Site.BaseURL}}images/work/{{.Params.featuredimage }}" alt="">
+            </a>
+
+            <h5 class="mt-2">{{ .Title }}</h5>
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>    
+  </div>
+</section>
+
+
+	{{ partial "footer.html" . }}
+
+
+{{ partial "footer-end.html" }}

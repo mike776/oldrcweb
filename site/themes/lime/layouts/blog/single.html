@@ -1,0 +1,70 @@
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
+
+<section class="text-center">
+  
+    <div class="clearfix text-right">
+        {{ if .Params.featuredimage }}
+          <img class="my-3 blog-fi" src="{{.Site.BaseURL}}/images/blog/{{ .Params.featuredimage }}" alt="">
+        {{ end }}
+      </div>
+      <h1 class="blog-title text-left card heading bg-white p-3">{{.Title}}</h1>
+  <div class="container" style="position:relative">
+    <div class="text-muted text-left ml-lg-5">{{.Date.Format "Jan 2, 2006"}} 
+        {{ if .Params.categories }}
+          <span> | Posted in 
+            {{ range .Params.categories }}
+              {{ title . }}
+            {{ end }}
+         </span>
+         {{ end }}
+        </div>
+    <article class="mt-5" style="position:relative;">
+      
+      
+      <p>{{ .Content | safeHTML }}</p>
+
+      <div class="share">
+        <span class="d-inline d-sm-inline d-md-none">Share&nbsp;&nbsp;&nbsp;</span>
+        <a target="_blank" class="facebook btn btn-facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}">
+          <i class="fab fa-facebook"></i> <span class="d-none d-lg-inline d-md-inline">Share on Facebook</span>
+        </a>
+        <a class="twitter btn btn-twitter" target="_blank" href="https://twitter.com/home?status={{ .Permalink }}">
+          <i class="fab fa-twitter"></i> <span class="d-none d-lg-inline d-md-inline">Share on Twitter</span>
+        </a>
+      </div>
+      {{ partial "disqus.html" . }}
+    </article>
+    
+  </div>
+
+  
+</section>
+
+
+<style>
+.blog-fi{
+  max-width:80%
+}
+.blog-title{
+  border:none;
+  width: 75%;
+  margin-top: -80px; 
+  margin-left:10%
+}
+
+@media (max-width: 600px){
+  .blog-fi{
+    max-width:100%
+  }
+  .blog-title{
+    width: 100%;
+    margin-top: 0px; 
+    margin-left:0%
+  }
+}
+</style>
+
+{{ partial "footer.html" . }}
+
+{{ partial "footer-end.html" }}
