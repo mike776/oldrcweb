@@ -2,7 +2,9 @@
 	"brand": "Rainbow Crow",
 	"logo": "logo.svg",
 	"wbenclogo": "wbenc.png",
-	"wbenchref": "https://www.wbenc.org/",
+	"wbenchref": "certifications/wbenc_2018.pdf",
+	"wosblogo": "wosb.png",
+	"wosbhref": "certifications/wosb_2018.pdf",
 	"links": [
 		{
 			"title": "Home",
