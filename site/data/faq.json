@@ -3,12 +3,16 @@
 	"description": "",
 	"faq": [
 		{
-			"title": "Does Rainbow Crow have the capacity for my software project?",
-			"description": "Please contact us so we can understand the scale of your software project. We have very talented software engineers and are generally able to accomodate at any scale."
+			"title": "Can Rainbow Crow make custom mounting equipment?",
+			"description": "Since our company was founded, we've worked to find the best possible solution for any problem brought to us by our clients. We have years of experience working within the industry and welcome any challenges."
 		},
 		{
-			"title": "Does rainbow crow have a WBENC certification?",
-			"description": "Yes, Rainbow Crow was founded and is run by two women with innovative ideas and big aspriations. In 2014 we received national certification as a Women's Business Enterprise (WBE) from the Women's Business Enterprise National Council (WBENC)."
+			"title": "Are Rainbow Crow brackets compatible with the industry standards?",
+			"description": "All of our hardware is designed to exceed all applicable industry standards. If there are any additional requirements we can work to accomodate them."
+		},
+		{
+			"title": "What is a WBENC certification?",
+			"description": "Rainbow Crow was founded and is run by two women with innovative ideas and big aspriations. In 2014 we received national certification as a Women's Business Enterprise (WBE) from the Women's Business Enterprise National Council (WBENC). We renew our certifications every year, see the navigation bar for the latest copies."
 		}
 	]
 }

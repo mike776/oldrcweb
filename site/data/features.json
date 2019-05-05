@@ -3,9 +3,9 @@
 	"description" : "We take pride in creating value and delivering the best product to our clients",
 	"content" : [
 		{
-			"icon" : "lightbulb",
-			"title" : "Creative Design",
-			"description" : "Whether it be software, a website, or a piece of hardware - our engineers will help guide you through the ideation process and bring the project to fruition."
+			"icon" : "hammer",
+			"title" : "Manufacturing",
+			"description" : "We have years of experience through the entire supply chain starting from the design work and down to the shipping. See for your self by browsing through our work catalogue."
 		},
 		{
 			"icon" : "code",
@@ -13,9 +13,9 @@
 			"description" : "We can help you craft functional and high-performance applications. We pride ourselves in writing state of the art software which will scale with your business demands."
 		},
 		{
-			"icon" : "hammer",
-			"title" : "Manufacturing",
-			"description" : "We have years of experience through the entire supply chain starting from the design work and down to the shipping. See for your self by browsing through our catalogue."
+			"icon" : "lightbulb",
+			"title" : "Commissioning",
+			"description" : "We can write test procedures to reflect all specifications, design, and troubleshoot electrical / alarm systems. Rainbow Crow assembles, configures, and executes FAT (Factory Acceptance Testing), SAT (Site Acceptance Testing), and SIT (Site Integration Testing)."
 		}
 	]
 }
