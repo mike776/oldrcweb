@@ -7,7 +7,7 @@ featuredimage: "custom_shelf_for_cd20_refridgerator.jpg"
 <center>
 Part Number
 <br>
-**RCD-2217-RFS-CD20-00**
+**RCD-CD20-RFS-D65-C**
 <br>
 <a target="none" href="../../catalogue/LIRR-Shelve-CD20.pdf"><button class="btn btn-sm">Catalogue Cut</button></a>
 </center>
