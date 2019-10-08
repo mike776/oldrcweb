@@ -4,11 +4,15 @@
 	"faq": [
 		{
 			"title": "Can Rainbow Crow make custom mounting equipment?",
-			"description": "Since our company was founded, we've worked to find the best possible solution for any problem brought to us by our clients. We have years of experience working within the industry and welcome any challenges."
+			"description": "Since our company was founded, we work to find the best possible solution for any problem brought to us by our clients. We have years of experience working within the industry and welcome any challenges."
 		},
 		{
 			"title": "Are Rainbow Crow brackets compatible with the industry standards?",
 			"description": "All of our hardware is designed to exceed all applicable industry standards. If there are any additional requirements we can work to accomodate them."
+		},
+		{
+			"title": "What is the technology stack used at Rainbow Crow?",
+			"description": "We strongly believe in using the right tool for the job, as such our tech stack varies greatly between projects. We work extensively with Python, C++, Go, Redis, MySQL, and Postgres. On the web stack we're experienced in HTML, CSS, JS, Flask, Django, Vue, and plenty of other frameworks."
 		},
 		{
 			"title": "What is a WBENC certification?",
