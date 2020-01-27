@@ -2,9 +2,9 @@
 	"brand": "Rainbow Crow",
 	"logo": "logo.svg",
 	"wbenclogo": "wbenc.png",
-	"wbenchref": "/certifications/wbenc_2019.pdf",
+	"wbenchref": "/certifications/wbenc_2020.pdf",
 	"wosblogo": "wosb.jpg",
-	"wosbhref": "/certifications/wosb_2019.pdf",
+	"wosbhref": "/certifications/wosb_2020.pdf",
 	"links": [
 		{
 			"title": "Home",
@@ -16,7 +16,7 @@
 		},
 		{
 			"title": "Our partners",
-			"href": "/farrell"
+			"href": "https://farrellprecision.com/"
 		},
 		{
 			"title": "Contact",
