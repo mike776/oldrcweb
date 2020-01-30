@@ -16,6 +16,11 @@
 			"icon" : "lightbulb",
 			"title" : "Commissioning",
 			"description" : "We can write test procedures to reflect all specifications, design, and troubleshoot electrical / alarm systems. Rainbow Crow assembles, configures, and executes FAT (Factory Acceptance Testing), SAT (Site Acceptance Testing), and SIT (Site Integration Testing)."
+		},
+		{
+			"icon": "comment-dollar",
+			"title": "Business Optimization",
+			"description": "Maximizing your efficiency is critical to your business' long term competitive viability. We can evaluate your business processes to determine where and how you can save money."
 		}
 	]
 }
