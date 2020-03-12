@@ -21,15 +21,16 @@
         <ul class="ml-auto navbar-nav">
 
             <li>
-              <a target="_blank" href="{{$header.wosbhref}}">
-                <img src="{{.Site.BaseURL}}/images/{{$header.wosblogo}}" height="70px">
-              </a>
-            </li>
-            <li>
               <a target="_blank" href="{{$header.wbenchref}}">
                 <img src="{{.Site.BaseURL}}/images/{{$header.wbenclogo}}" height="70px">
               </a>
             </li>
+            <li>
+              <a target="_blank" href="{{$header.wosbhref}}">
+                <img src="{{.Site.BaseURL}}/images/{{$header.wosblogo}}" height="70px">
+              </a>
+            </li>
+
           
             {{ range $key, $value := .Site.Data.social }}
             <li class="nav-item" style="font-size: 22px">
