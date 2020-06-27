@@ -16,7 +16,8 @@
 		},
 		{
 			"title": "Our partners",
-			"href": "https://farrellprecision.com/"
+			"href": "https://farrellprecision.com/",
+			"newtab": true
 		},
 		{
 			"title": "Contact",
