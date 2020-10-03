@@ -7,7 +7,7 @@ featuredimage: "hub_for_communication_cabinet.jpg"
 <center>
 Part Number
 <br>
-**RCD-1.5-ST-UNV**
+<b>RCD-1.5-ST-UNV</b>
 <br>
 <a target="none" href="../../catalogue/RCD-1.5-ST-CatCut.pdf"><button class="btn btn-sm">Catalogue Cut</button></a>
 </center>

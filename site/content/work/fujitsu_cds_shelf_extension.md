@@ -7,7 +7,7 @@ featuredimage: "fujitsu_cds_shelf_extension.png"
 <center>
 Part Number
 <br>
-**RCD-2319-UNV-CDS-02RU**
+<b>RCD-2319-UNV-CDS-02RU</b>
 <br>
 <a target="none" href="../../catalogue/RCDesign-Bracket-CDS-2RU.pdf"><button class="btn btn-sm">Catalogue Cut</button></a>
 </center>

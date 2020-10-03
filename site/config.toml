@@ -2,3 +2,8 @@ baseURL = "https://rainbowcrow.com/"
 languageCode = "en-us"
 title = "Rainbow Crow"
 theme = "lime"
+
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.renderer]
+			unsafe = true

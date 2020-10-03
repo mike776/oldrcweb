@@ -7,7 +7,7 @@ featuredimage: "fiber_distribution_box.png"
 <center>
 Part Number
 <br>
-**RCD-FDB-665-4115**
+<b>RCD-FDB-665-4115</b>
 <br>
 <a target="none" href="../../catalogue/RC_fiber_distribution_box.pdf"><button class="btn btn-sm">Catalogue Cut</button></a>
 </center>

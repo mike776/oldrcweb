@@ -7,7 +7,7 @@ featuredimage: "double_universal_bracket_for_rittal_cabinet.jpg"
 <center>
 Part Number
 <br>
-**RCD-2319-RTL-UNV-03RU**
+<b>RCD-2319-RTL-UNV-03RU</b>
 <br>
 <a target="none" href="../../catalogue/RCDesign-Bracket-Ritall-3RU.pdf"><button class="btn btn-sm">Catalogue Cut</button></a>
 </center>

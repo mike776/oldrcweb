@@ -7,7 +7,7 @@ featuredimage: "fujitsu_photonic_shelf_extension.png"
 <center>
 Part Number
 <br>
-**RCD-2319-UNV-FPS-03RU**
+<b>RCD-2319-UNV-FPS-03RU</b>
 <br>
 <a target="none" href="../../catalogue/RCDesign-Bracket-FPS-3RU.pdf"><button class="btn btn-sm">Catalogue Cut</button></a>
 </center>
