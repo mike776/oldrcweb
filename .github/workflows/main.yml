@@ -51,12 +51,12 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
-          hugo -s site/rainbowcrow.com \
+          hugo -s site \
             --minify \
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: ./site/rainbowcrow.com/public
+          path: ./site/public
 
   # Deployment job
   deploy:
