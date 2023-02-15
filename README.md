@@ -4,7 +4,7 @@ Rainbow Crow LLC website
 *Everything should be done in the `site` directory*
 
 # How to pull the latest changes from git
-`git pull`
+`git pull`.
 
 # To view the site offline (with live changes)
 `hugo -D serve`
